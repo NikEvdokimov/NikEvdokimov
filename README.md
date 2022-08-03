@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NikEvdokimov
+- 👋 Hi, I’m @MikitaYeudakimau
 - 👀 I’m interested in Web Technologies
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me nik1807@tut.by
+- 🌱 I’m currently learning Django, Django REST API, Celery, Redis.
+- 💞️ I’m looking for Trainee/ Junior Python Developer position.
+- 📫 How to reach me: nikevdokimovv@gmail.com
 
 <!---
 NikEvdokimov/NikEvdokimov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
